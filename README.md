@@ -4,7 +4,7 @@
 
 | Number | Item | Description |
 | ------ | ---- | ----------- |
-| 1 | [Project 2]() | Enter Test Scores to Get Letter Grades and Other Data |
+| 1 | [Project 2](https://github.com/DrewStillson/Spring-2024/tree/main/project2) | Enter Test Scores to Get Letter Grades and Other Data |
 | 2 | [Project 3]() | A Banking App |
 | 3 | [Project 4]() | A Pokemon Text Battle Game |
 | 4 | 
